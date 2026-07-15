@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi 👋 I'm Sudha
 
-<!--
-**sudhap-ui/sudhap-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Senior UI Developer | Angular Developer
 
-Here are some ideas to get you started:
+I am a Frontend Engineer with 15+ years of experience building scalable enterprise web applications using Angular, TypeScript, JavaScript, HTML5, CSS3, and RxJS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I specialize in:
+
+- Angular (v2+)
+- TypeScript
+- JavaScript (ES6+)
+- RxJS
+- HTML5
+- CSS3 / SCSS
+- REST APIs
+- State Management (NgRx)
+- Performance Optimization
+- Responsive UI Development
+
+## Tech Stack
+
+Angular • TypeScript • JavaScript • HTML5 • CSS3 • SCSS • RxJS • NgRx • Bootstrap • Material UI • REST APIs • Git • Azure DevOps
+
+## What I'm Learning
+
+- Frontend Architecture
+- System Design
+- Micro Frontends
+- Performance Engineering
